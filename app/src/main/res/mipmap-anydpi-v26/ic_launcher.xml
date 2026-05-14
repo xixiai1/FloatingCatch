@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/ic_launcher_background"/>
+    <foreground>
+        <vector
+            android:width="108dp"
+            android:height="108dp"
+            android:viewportWidth="108"
+            android:viewportHeight="108">
+            <!-- 紫色圆形背景 -->
+            <path android:fillColor="#6C63FF"
+                android:pathData="M54,54m-36,0a36,36 0,1 1,72 0a36,36 0,1 1,-72 0"/>
+            <!-- 白色剪贴板图标 -->
+            <path android:fillColor="#FFFFFF"
+                android:pathData="M42,30h24c2,0 3,1 3,3v30c0,2 -1,3 -3,3H42c-2,0 -3,-1 -3,-3V33c0,-2 1,-3 3,-3z"/>
+            <path android:fillColor="#6C63FF"
+                android:pathData="M46,27h16c1.5,0 2.5,1 2.5,2.5v2c0,1.5 -1,2.5 -2.5,2.5H46c-1.5,0 -2.5,-1 -2.5,-2.5v-2c0,-1.5 1,-2.5 2.5,-2.5z"/>
+            <!-- 内容线条 -->
+            <path android:fillColor="#CCCCCC"
+                android:pathData="M46,40h16v2h-16zM46,46h12v2h-12zM46,52h14v2h-14z"/>
+        </vector>
+    </foreground>
+</adaptive-icon>

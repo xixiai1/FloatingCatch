@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">悬浮捕获</string>
+    <string name="start_floating">启动悬浮球</string>
+    <string name="stop_floating">停止悬浮球</string>
+    <string name="grant_overlay">请授予悬浮窗权限</string>
+    <string name="grant_projection">请授予屏幕录制权限</string>
+    <string name="notification_channel_name">悬浮捕获服务</string>
+    <string name="notification_channel_desc">悬浮球正在运行</string>
+    <string name="captured_clipboard">已保存剪贴板内容</string>
+    <string name="captured_screenshot">已保存截图</string>
+    <string name="recording_started">录屏开始</string>
+    <string name="recording_stopped">录屏已保存</string>
+    <string name="save_path_label">保存路径</string>
+    <string name="usage_hint">单击=保存剪贴板 | 长按=截图 | 双击=录屏</string>
+</resources>
